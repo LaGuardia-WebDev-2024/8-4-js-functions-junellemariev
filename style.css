@@ -27,4 +27,7 @@ h2 {
 #myCanvas {
   border: 5px solid  #f10937;
   border-radius: 30px;
+   font-family: "Playwrite NZ Basic Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
